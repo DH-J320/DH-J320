@@ -1,26 +1,33 @@
 # Technical Notes
 
-This folder is for technical concepts that I have studied and rewritten in my own words.
+This folder contains technical concepts I have studied and rewritten in my own words.
 
-## Planned Topics
+The goal is not to collect copied explanations, but to build a searchable record of concepts I can explain and apply.
 
-### Electronics
-- Comparator fundamentals
-- Push-pull vs. open-drain outputs
-- Pull-up / pull-down resistors
-- RC delay circuits
+## Electronics
+
+- [Comparator Basics](./electronics/comparator-basics.md)
+- [Push-Pull vs Open-Drain Outputs](./electronics/push-pull-vs-open-drain.md)
+- [RC Delay Circuits](./electronics/rc-delay-circuits.md)
+- [Pull-Up and Pull-Down Resistors](./electronics/pull-up-pull-down.md)
+
+### Planned
 - Latch circuits
 - Sensor open/short fault detection
 - Fail-safe circuit design
+- Basic filtering
+- ADC fundamentals
 
-### Embedded Systems
+## Embedded Systems — Planned
+
 - STM / ESP fundamentals
-- ADC and digital I/O
+- Digital I/O
 - Sensor interfacing
 - Communication basics
 - Debugging methodology
 
-### Engineering Mathematics
+## Engineering Mathematics — Planned
+
 - Matrices and determinants
 - Cofactors and inverse matrices
 - Linear systems
@@ -28,7 +35,7 @@ This folder is for technical concepts that I have studied and rewritten in my ow
 
 ## Note Template
 
-Each note should ideally contain:
+Each note should ideally answer:
 
 1. **What is it?**
 2. **Why is it used?**
@@ -38,4 +45,4 @@ Each note should ideally contain:
 6. **Engineering application**
 7. **What I still do not understand**
 
-The aim is to convert passive studying into reusable technical knowledge.
+> Learn → explain → apply → revisit.
