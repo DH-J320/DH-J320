@@ -1,117 +1,90 @@
-# Engineering Portfolio 🚀
+# DH-J320 | Engineering Portfolio 🚀
 
-Mechanical Engineering undergraduate building a foundation in **aerospace engineering, embedded systems, electronics, control, and engineering computation**.
+**Mechanical Engineering Undergraduate**  
+Aerospace · Propulsion · Avionics · Embedded Systems · Engineering Computation
 
-I use this repository as a public record of what I learn, build, test, and improve.
+I am building a technical foundation through **coursework, Formula Student experience, simulations, and hands-on engineering projects**.
 
----
-
-## About Me
-
-- 🔧 Mechanical Engineering undergraduate
-- 🏎️ Learning electronics and embedded systems through a Formula Student project
-- 🚀 Interested in aerospace engineering, propulsion, avionics, and space systems
-- 💻 Building skills in MATLAB, Python, CAD, circuit analysis, and embedded systems
-- 🧪 Interested in undergraduate research and hands-on engineering projects
-
-My goal is to turn coursework and project experience into **reproducible technical notes, simulations, code, and engineering projects**.
+This GitHub is my public engineering record: what I **learn, build, verify, and improve**.
 
 ---
 
-## Current Focus
+## What I'm Working On
 
-### Electronics & Embedded Systems
-- Comparator circuits
-- Pull-up / pull-down logic
-- RC delay circuits
-- Latches and fault detection
-- STM / ESP-based embedded systems
-- Sensor signal processing
+### 🏎️ Electronics & Embedded Systems
+- Circuit analysis and fault-detection logic
+- Comparators, pull-up / pull-down networks, RC timing, and latches
+- STM / ESP fundamentals
+- Sensors and embedded-system interfaces
 
-### Engineering Computation
+### 💻 Engineering Computation
 - MATLAB
 - Python
-- Linear algebra for engineering
+- Engineering mathematics
 - Numerical problem solving
-- Data visualization and simulation
+- Simulation and data visualization
 
-### Mechanical & Aerospace
-- CAD and mechanical design
+### 🚀 Aerospace Foundations
 - Rocket fundamentals
-- Flight dynamics and stability
 - Propulsion
+- Flight dynamics and stability
 - Avionics and control
+- Space-system engineering
 
 ---
 
-## Repository Structure
+## Selected Technical Notes
 
-| Area | What goes here |
-|---|---|
-| [Notes](./notes/) | Concepts I have studied and rewritten in my own words |
-| [Projects](./projects/) | Simulations, code, experiments, and engineering projects |
-| [Roadmap](./roadmap/) | What I am learning next and why |
+- [Comparator Basics](./notes/electronics/comparator-basics.md)
+- [Push-Pull vs Open-Drain Outputs](./notes/electronics/push-pull-vs-open-drain.md)
+- [RC Delay Circuits](./notes/electronics/rc-delay-circuits.md)
+- [Pull-Up and Pull-Down Resistors](./notes/electronics/pull-up-pull-down.md)
+
+More notes will be added as I study, test, and apply each concept.
 
 ---
 
 ## Project Direction
 
-### 1. Circuit & Embedded Systems Notes
-Public, generalized notes based on concepts learned while studying engineering electronics.
+### 01 — Electronics & Embedded Systems
+Turn circuit concepts into small simulations, measurements, and embedded-system exercises.
 
-Planned topics:
-- Comparator fundamentals
-- Open-drain vs. push-pull outputs
-- RC delay circuits
-- Latch logic
-- Sensor fault detection
-- Fail-safe design principles
+### 02 — Engineering Computation
+Use MATLAB and Python to convert mathematics and physics into reproducible engineering calculations.
 
-> Team-confidential schematics, code, data, and documents are intentionally excluded.
+### 03 — Aerospace Projects
+Progress from fundamental models toward more complete aerospace work:
 
-### 2. MATLAB / Python Engineering Exercises
-Small computational projects that turn university-level mathematics and physics into code.
-
-Planned examples:
-- Linear algebra utilities
-- Electric-field calculations
-- Numerical simulations
-- Data plotting and analysis
-
-### 3. Aerospace Study Projects
-A long-term collection of increasingly serious aerospace projects.
-
-Planned progression:
-1. Rocket flight simulation
-2. Stability / CG / CP analysis
-3. Basic flight-data analysis
-4. Control-system simulations
-5. Propulsion-related studies
+`Rocket Flight Simulation → Stability / CG / CP → Flight Data → Control → Propulsion`
 
 ---
 
-## How I Work
+## Repository Map
 
-I try to document projects with the following structure:
-
-**Question → Background → Method → Implementation → Result → Failure / Limitation → Next Step**
-
-The goal is not only to show finished work, but to leave a trace of how my engineering thinking improves over time.
+| Section | Purpose |
+|---|---|
+| [📚 Technical Notes](./notes/) | Concepts rewritten and organized in my own words |
+| [🛠️ Projects](./projects/) | Simulations, code, experiments, and engineering work |
+| [🧭 Learning Roadmap](./roadmap/) | Skills and topics I plan to develop next |
 
 ---
 
-## Tools I Am Learning
+## Tools & Skills in Development
 
 `MATLAB` · `Python` · `Git/GitHub` · `NX CAD` · `Fusion 360` · `STM/ESP`
 
 ---
 
-## Long-Term Goal
+## How I Approach Engineering
 
-Build enough experience in **engineering projects + research + technical communication** to contribute to aerospace R&D, especially in areas related to propulsion, avionics, control, and space systems.
+> **Question → Background → Model / Method → Build → Verify → Result → Limitation → Next Step**
+
+I want this portfolio to show not only finished results, but also how my engineering reasoning develops over time.
 
 ---
 
-### This repository is a work in progress.
+## Long-Term Direction
 
-Small notes today → reproducible projects tomorrow → research-quality work later.
+My goal is to build the project experience, research skills, and technical depth needed to contribute to **aerospace R&D**, particularly in areas related to **propulsion, avionics, control, and space systems**.
+
+**Learn → Build → Verify → Document → Improve**
