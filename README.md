@@ -9,6 +9,18 @@ This GitHub is my public engineering record: what I **learn, build, verify, and 
 
 ---
 
+## Featured Project
+
+### 🏎️ [Formula Student Electronics Study](https://github.com/DH-J320/Formula-Student-Korea-Electronics-Study)
+
+A structured engineering study of Formula Student safety electronics, centered on BSPD architecture and the evolution from **25EVO to LEF-26**.
+
+**Topics:** comparator circuits · open-collector / push-pull · RC timing · sensor fault detection · latch/reset · fail-safe logic · schematic walkthroughs · verification
+
+The repository includes team schematic material published with permission, technical notes, system-level analysis, and a small RC-delay verification project.
+
+---
+
 ## What I'm Working On
 
 ### 🏎️ Electronics & Embedded Systems
@@ -35,12 +47,12 @@ This GitHub is my public engineering record: what I **learn, build, verify, and 
 
 ## Selected Technical Notes
 
-- [Comparator Basics](./notes/electronics/comparator-basics.md)
-- [Push-Pull vs Open-Drain Outputs](./notes/electronics/push-pull-vs-open-drain.md)
-- [RC Delay Circuits](./notes/electronics/rc-delay-circuits.md)
-- [Pull-Up and Pull-Down Resistors](./notes/electronics/pull-up-pull-down.md)
+My electronics study notes now live with their engineering context inside the Formula Student repository:
 
-More notes will be added as I study, test, and apply each concept.
+- [Comparator Basics](https://github.com/DH-J320/Formula-Student-Korea-Electronics-Study/blob/main/fundamentals/comparator-basics.md)
+- [Open-Collector vs Push-Pull](https://github.com/DH-J320/Formula-Student-Korea-Electronics-Study/blob/main/fundamentals/open-collector-vs-push-pull.md)
+- [RC Timing Circuits](https://github.com/DH-J320/Formula-Student-Korea-Electronics-Study/blob/main/fundamentals/rc-timing.md)
+- [25EVO vs LEF-26 BSPD](https://github.com/DH-J320/Formula-Student-Korea-Electronics-Study/blob/main/comparisons/25evo-vs-lef26.md)
 
 ---
 
